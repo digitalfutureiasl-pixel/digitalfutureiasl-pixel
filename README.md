@@ -18,6 +18,11 @@ Hemos publicado una plantilla de control de cambios y un validador local de cat�
 
 Es un recurso con licencia MIT. Ayuda a revisar archivos CSV; no importa productos a un CMS ni garantiza compatibilidad con cualquier tienda.
 
+## Guías prácticas
+
+- [Revisar por qué se atasca la actualización de un catálogo](https://digitalfutureia.es/blog-actualizar-catalogo): causas frecuentes, comprobaciones y una plantilla para registrar cambios. Los ejemplos son ilustrativos, no ahorros medidos.
+- [Preparar un informe SEO que sirva para decidir](https://digitalfutureia.es/blog-informes-seo-automaticos): comparar datos de Search Console, separar visitas de contactos reales y decidir qué recoger automáticamente y qué revisar.
+
 ## Contacto
 
 Puedes conocer los servicios y describir una tarea que repitas desde [digitalfutureia.es](https://digitalfutureia.es/).
